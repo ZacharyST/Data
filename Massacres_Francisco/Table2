@@ -1,0 +1,33 @@
+"Event","Town_or_City","Country","Event.Content","Date","Source","Event.N","Post.Day.1.N","Post.Day.2.N","Post.Day.3.N","Dead","Injured"
+"Amristar ","Amristar ","India","Amristar massacre",1919-04-13,"Fein 1997; Times; Irish Times ",15000,30000,30000,60000,0,0
+"Barcelona ","Barcelona ","Spain","Barcelona Workers’ Massacre ",1902-02-18,"Manchester Guardian, 
+2/1902 ",3001,80000,1e+05,10000,0,0
+"Berlin ","Berlin ","Germany","Spartacist uprising",1918-12-06,"Laschitza 1982 ",3001,150000,250000,0,0,0
+"Caracas ","Caracas ","Venezuela","Caracas Caracazo ",1989-02-27,"Associated Press; UPI ",30000,60000,45000,30000,41,300
+"Ciskei ","Ciskei ","Republic of Ciskei (now South Africa)","Ciskei massacre ",1992-09-07,"Xinhau; UPI ",20000,103250,7008,1008,0,0
+"Derry ","Derry ","North Ireland","Derry Bloody Sunday ",1972-01-30,"Irish Times 1972 ",3000,15000,18000,20000,0,0
+"Dublin 1914 ","Dublin","Ireland","Dublin Bachelor’s Walk ",1914-07-26,"De Rosa 1990; Times 1914 ",1000,3000,6000,9000,0,0
+"Dublin 1920 ","Dublin","Ireland","Dublin Bloody Sunday ",1920-11-21,"Irish Times, 11/1920 ",15000,301,301,301,0,0
+"Escalante ","Escalante ","Philippines","Escalante massacre",1985-09-20,"Associated Press 1985 ",15000,95000,33001,600001,4,3
+"Essen ","Essen ","Germany","Essen massacre ",1923-03-31,"Cornebise 1977 ",50000,3e+05,3e+05,3e+05,0,0
+"GDR ","GDR ","East Germany (Now Germany)","GDR Worker rising ",1953-06-17,"Baring 1983; Ference 1994; Spittmann and Fricke 1982 ",1e+05,3e+05,250000,2e+05,0,0
+"Guinea- Bissau ","Bissau","Guinea-Bissau ","Pidjiguiti massacre (dock-workers strike)",1959-08-03,"Forrest 1992; Lopes 1987 ",1000,0,0,0,0,0
+"Kwangju ","Kwangju ","South Korea","Kwangju, South Korea ",1980-05-18,"Clark 1988 ",30500,100001,200001,500001,0,0
+"Managua ","Managua ","Nicaragua","Managua election massacre ",1967-01-22,"Facts on File 1967 ",6000,3000,30000,30000,1,2
+"Mendiola Bridge ","Mendiola Bridge ","Philippines","Mendiola Bridge, Philippines ",1987-01-22,"Davis 1989 ",10000,300001,300001,300001,3,0
+"Mexico City ","Mexico City ","Mexico","Mexico City student massacre ",1968-10-02,"New York Times 10/3- 6/1968 ",10000,150301,170000,150000,0,0
+"San Salvador ","San Salvador ","San Salvador","San Salvador Cathedral ",1979-05-08,"Associated Press, 5/1979 ",500,5000,38000,15346,4,0
+"Sharpeville ","Sharpeville ","Transvaal (Now Gauteng, South Africa)","Sharpeville massacre ",1960-03-21,"Progrund 1991 ",6000,15000,30000,30300,0,0
+"Soweto ","Soweto ","South Africa","Soweto riot ",1976-06-16,"New York Times ",10000,50000,70000,30000,109,1100
+"St. Peters- burg ","St. Petersburg ","Russian Empire (now Russia)","St. Petersburg Bloody Sunday ",1905-01-22,"Sablinsky 1976; Suhr 1989 ",16000,30000,3e+05,3e+05,0,0
+"Tblisi ","Tbilisi ","Georgia","April 9 Tragedy",1989-04-09,"Associated Press, 4/13/89 ",3001,30001,30001,30001,0,0
+"Tehran ","Tehran ","Iran","Black Friday",1978-09-08,"Times 9/1978 ",20000,30301,40000,30000,1,0
+"Temple Mount ","Jerusalem","Israel","Temple Mount riots",1990-10-08,"Associated Press; UPI; Xinhau, 10/1990 ",3001,2060000,2023001,2021150,0,13
+"Tiananmen ","Beijing","People’s Republic of China","Tiananmen Square protests of 1989",1989-06-04,"Ming Pao News 1989; Salisbury 1989 ",6000,30000,30000,500100,30,301
+"Turkey ","Multiple Cities","Turkey","Turkey Kurd massacre ",1992-03-21,"Xinhau; AP; Reuters ",3001,15000,15000,16000,8,0
+"Uitenhage ","East Cape","South Africa","Uitenhage/Langa Massacre",1985-03-21,"UPI, 3/24/85 ",3500,1001,1001,30000,2,0
+"Vienna ","Vienna ","Austria","July Revolt of 1927",1927-07-15,"New York Times ",30001,80001,400001,30001,0,0
+"Vilnius ","Vilnius ","Lithuania","January Events ",1991-01-12,"BBC 1991 ",501,140001,300001,300001,0,1
+"West Beirut ","West Beirut ","Lebanon","Sabra and Shatila massacre",1982-09-16,"United Press International 9/20/82 ",5001,1e+05,1e+05,90000,0,31
+"White/Red Bridge ","Burma","Myanmar","White/Red Bridge",1988-03-16,"Lintner 1990 ",3001,2000,20000,0,135,1701
+"Wujek mine ","Katowice","Poland","Pacification of Wujek (coal mine) ",1981-12-16,"http://lark.cc.ku.edu/~ronfr an/data/index.html ",3001,28993,315855,353127,13,1039
